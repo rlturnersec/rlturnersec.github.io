@@ -1,5 +1,5 @@
-title = "R.L. Turner Cybersecurity Club Website"
 baseURL = "https://rlturnersec.github.io"
+title = "R.L. Turner Cybersecurity Club Website"
 theme = "hugo-geekdoc"
 
 # Geekdoc required configuration
